@@ -1,0 +1,10 @@
+body {
+    background-color: aliceblue;
+    font-weight: monospace;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+}
+
