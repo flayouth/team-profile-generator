@@ -1,16 +1,6 @@
 <h1>Team Profile Generator</h1>
 <h2>Description</h2>
 <p>This is another node.js command line application that implements Jest and Inquirer packages. The application allows the user to generate a Team List of individuals with unique identifying elements of the software engineering team. The application gathers the data inputted into the command line and returns a generated page displaying the newly inputted data on each member of the team.</p>
-<h2>Table of Contents</h2>
-<ul>
-    <li>Installation</li>
-    <li>Usage</li>
-    <li>Links</li>
-    <li>License</li>
-    <li>Contributions</li>
-    <li>Tests</li>
-    <li>Questions</li>
-</ul>
 <h2>Installation</h2>
 <p>To install this application, one must:</p>
 <ol>
