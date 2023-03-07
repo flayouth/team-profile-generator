@@ -18,8 +18,8 @@
   <li>HTML</li>
   <li>CSS</li>
 </ul>
-<h2>Credits</h2>
-<p> This application was created by flayouth. If you have any questions or comments, please contact me at <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new">chasegoode7@gmail.com</a>.</p>
+<h2>Contact</h2>
+<p>If you have any questions or comments, please contact me at <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new">chasegoode7@gmail.com</a>.</p>
 
 
 
