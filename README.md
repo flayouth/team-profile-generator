@@ -5,7 +5,7 @@
 <ol>
   <li>Clone the repository to your local machine.</li>
   <li>Install the required dependencies by running npm install.</li>
-  <li>Run the application by running <pre><code>node index.js</code></pre>.</li>
+  <li>Run the application by running <pre><code>node index.js</code></pre></li>.
   <li>Follow the prompts to enter the team members' information.</li>
   <li>When finished, the application will generate an HTML file in the dist folder.</li>
 </ol>
