@@ -19,7 +19,7 @@
   <li>CSS</li>
 </ul>
 <h2>Credits</h2>
-<p> This application was created by flayouth. If you have any questions or comments, please contact me at <a href="chasegoode7@gmail.com">chasegoode7@gmail.com</a>.</p>
+<p> This application was created by flayouth. If you have any questions or comments, please contact me at <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new">chasegoode7@gmail.com</a>.</p>
 
 
 
